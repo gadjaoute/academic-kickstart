@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have over 4+ years of work experience in the healthcare and life sciences industry. In my current master’s I have refined my statistical and visualization skills and learned machine learning models to marry with my subject matter expertise in the life sciences. I am looking to leverage my knowledge and experience into a role as a data scientist/analyst.
 
 interests:
 - Artificial Intelligence
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Master of Business Analytics (MSBA)
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have over 4+ years of work experience in the healthcare and life sciences industry. In my current master’s I have refined my statistical and visualization skills and learned machine learning models to marry with my subject matter expertise in the life sciences. I am looking to leverage my knowledge and experience into a role as a data scientist/analyst.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
