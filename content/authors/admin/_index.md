@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MSBA candidate, data enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UCSD Rady School of Management
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I have over 4+ years of work experience in the healthcare and life sciences industry. In my current master’s I have refined my statistical and visualization skills and learned machine learning models to marry with my subject matter expertise in the life sciences. I am looking to leverage my knowledge and experience into a role as a data scientist/analyst.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Applied Machine Learning
+- Bioinformatics
+- Recommendation Systems
+- Data visualization
+- NLP
+- Translational Research
 
 education:
   courses:
   - course: Master of Business Analytics (MSBA)
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: UCSD Rady School of Management, San Diego
+    year: 2020
+  - course: Master of Social Welfare (MSW)
+    institution: UCLA Luskin School of Public Affairs, Los Angeles
+    year: 2018
+  - course: BSc in Biology
+    institution: Cal Poly San Luis Obispo
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
