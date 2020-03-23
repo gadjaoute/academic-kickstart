@@ -18,16 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Fellow"
-  company = "Va San Diego Healthcare System"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
   location = "California"
-  date_start = "2018-08-31"
-  date_end = "2019-06"
+  date_start = "2017-01-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
-  * Provided individual assessment, evidence-based individual and group psychotherapies and rehabilitation services independently and collaboratively with other multidisciplinary clinicians to Veterans with severe mental illnesses. 
+  * Analysing
   * Modelling
   * Deploying
   """
