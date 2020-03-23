@@ -45,4 +45,16 @@ date_format = "Jan 2006"
 * Led an independent research project exploring the relationship between nicotine and learning among Veterans with severe mental illness. Presented findings at 2019 Judd Young Investigators Symposium.
  """
 
+[[experience]]
+  title = "Fellow"
+  company = "VA San Diego Healthcare System/UCSD""
+  company_url = ""
+  location = "California"
+  date_start = "2018-08"
+  date_end = "2019-06"
+  description = """
+  * Provided individual assessment, evidence-based individual and group psychotherapies and rehabilitation services independently and collaboratively with other multidisciplinary clinicians to Veterans with severe mental illnesses.
+  * Administered and scored clinical measures and interpreted quantitative data as the basis for conversations with Veterans about how the findings should inform their treatment plans.
+* Led an independent research project exploring the relationship between nicotine and learning among Veterans with severe mental illness. Presented findings at 2019 Judd Young Investigators Symposium.
+ """
 +++
