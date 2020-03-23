@@ -23,11 +23,12 @@ bio: I have over 4+ years of work experience in the healthcare and life sciences
 interests:
 - Deep Learning
 - Applied Machine Learning
-- Bioinformatics
 - Recommendation Systems
 - Data visualization
 - NLP
 - Translational Research
+- Bioinformatics
+- Psychotropics drug development
 
 education:
   courses:
