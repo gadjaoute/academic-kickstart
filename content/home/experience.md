@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Research Assistant"
+  company = "University of California, Los Angeles"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2016-09"
+  date_end = "2018-09"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Reviewed evaluation and approval documents by the FDA of two psychotropic medications to study how experimental drug activity established in preclinical animal model trials warrants human clinical trials. 
+  * Updated the CriticalThinkRx web-based curriculum on psychotropic medications.
+  * Participated in evaluation of the Psychiatric Medication History Protocol. 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Fellow"
+  company = "VA San Diego Healthcare System/UCSD""
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2018-08"
+  date_end = "2019-06"
+  description = """
+  * Provided individual assessment, evidence-based individual and group psychotherapies and rehabilitation services independently and collaboratively with other multidisciplinary clinicians to Veterans with severe mental illnesses.
+  * Administered and scored clinical measures and interpreted quantitative data as the basis for conversations with Veterans about how the findings should inform their treatment plans.
+* Led an independent research project exploring the relationship between nicotine and learning among Veterans with severe mental illness. Presented findings at 2019 Judd Young Investigators Symposium.
+ """
 
 +++
