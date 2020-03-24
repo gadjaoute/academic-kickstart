@@ -33,30 +33,42 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Intern"
+  company = "West Los Angeles VA Medical Center"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2017-09-01"
+  date_end = "2018-06-31"
+  description = """
+  
+  * Provided fast-paced clinical care at Interprofessional Integrative Health Center, Inpatient Psychiatric Unit, Emergency Department and Psychosocial Rehabilitation Recovery Center. 
+  * Conducted clinical research evaluating Mindful Self-Compassion and Mindfulness Based Stress Reduction interventions with Veterans."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Clinical Affairs Coordinator"
+  company = "Discovery Life Sciences, Inc."
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2016-02-01"
+  date_end = "2016-09-31"
+  description = """
+  
+  * Served as primary clinical site recruiter and coordinator to collect biospecimens for biomedical device companies. 
+  * Translated and presented complex clinical results to sales and operation executives (a multidisciplinary audience). 
+  * Assisted with IRB and Ethics Committees submissions, continuing review, and study close out. 
+  * Drafted regulatory and study documents. Helped monitor study progress to ensure compliance with and adherence to project plan. """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Clinical Project Assistant I"
+  company = "US Biotest, Inc "
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2015-05-01"
+  date_end = "2015-08-31"
+  description = """
+  
+  * Assisted Director of Oncology and Principal Investigator with development of a pharmaceutical drug. 
+  * Collaborated with interdisciplinary team in charge of drug development and approval process (including internal stakeholders and external partners). 
+  * Assisted Clinical Director and Document Control Manager with FDA regulatory submissions. """
 
 +++
