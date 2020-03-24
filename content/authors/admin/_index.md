@@ -75,5 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I have over 4+ years of work experience in the healthcare and life sciences industry. In my current master’s I have refined my statistical and visualization skills and learned machine learning models to marry with my subject matter expertise in the life sciences. I am looking to leverage my knowledge and experience into a role as a data scientist/analyst.
-
+I have over 4+ years of work experience in the healthcare and life sciences industry. In my current master’s I have refined my statistical and visualization skills (e.g.,Python, R, Shiny and Tableau) and learned machine learning models (e.g., regression, decision trees, neural networks, clustering, web-scraping, sentiment analysis, topic models) to marry with my subject matter expertise in the life sciences. I am looking to leverage my knowledge and experience into a role as a data scientist/analyst.
