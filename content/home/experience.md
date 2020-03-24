@@ -39,9 +39,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2017-09-01"
-  date_end = "2018-06-31"
+  date_end = "2018-06-01"
   description = """
-  
   * Provided fast-paced clinical care at Interprofessional Integrative Health Center, Inpatient Psychiatric Unit, Emergency Department and Psychosocial Rehabilitation Recovery Center. 
   * Conducted clinical research evaluating Mindful Self-Compassion and Mindfulness Based Stress Reduction interventions with Veterans.
   
@@ -53,9 +52,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2016-02-01"
-  date_end = "2016-09-31"
+  date_end = "2016-09-01"
   description = """
-  
   * Served as primary clinical site recruiter and coordinator to collect biospecimens for biomedical device companies. 
   * Translated and presented complex clinical results to sales and operation executives (a multidisciplinary audience). 
   * Assisted with IRB and Ethics Committees submissions, continuing review, and study close out. 
@@ -69,9 +67,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2015-05-01"
-  date_end = "2015-08-31"
+  date_end = "2016-08-01"
   description = """
-  
   * Assisted Director of Oncology and Principal Investigator with development of a pharmaceutical drug. 
   * Collaborated with interdisciplinary team in charge of drug development and approval process (including internal stakeholders and external partners). 
   * Assisted Clinical Director and Document Control Manager with FDA regulatory submissions. 
