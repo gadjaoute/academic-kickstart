@@ -58,7 +58,14 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "head-side-brain"
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Research"
+#  description = "10%"
+
+
+[[feature]]
+  icon = "brain"
   icon_pack = "fas"
   name = "ACSW"
 #  description = "10%"
