@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "VA San Diego Healthcare System"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2018-08-01"
+  date_end = "2019-06-02"
   description = """
   Responsibilities include:
   
