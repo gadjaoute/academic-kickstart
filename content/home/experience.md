@@ -33,8 +33,6 @@ date_format = "Jan 2006"
 
   """
  
-  """
-
 [[experience]]
   title = "Graduate Research Assistant"
   company = "UCLA"
