@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   date_start = "2020-03-01"
   date_end = "2020-03-03"
   description = "Gradient boosting is currently one of the most popular techniques for efficient modeling of tabular datasets of all sizes. XGboost is a very fast, scalable implementation of gradient boosting, with models using XGBoost regularly winning online data science competitions and being used at scale across different industries."
+  
+[[item]]
+  organization = "Datacamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Building Dashboards with shinydashboard"
+  url = ""
+  certificate_url = "https://learn.datacamp.com/courses/building-dashboards-with-shinydashboard"
+  date_start = "2020-03-01"
+  date_end = "2020-03-03"
+  description = "Dashboards, a common data science deliverable, are pages that collate information, often tracking metrics from a live-updating data source. This course allows you to gain more expertise using shiny while learning to build and design these dynamic dashboards. In the process, you’ll pick up tips to optimize performance as well as best practices to create a visually appealing product."
 
 [[item]]
   organization = "CITI courses"
@@ -58,5 +68,14 @@ date_format = "Jan 2006"
   date_end = "2017-10-04"
   #description = ""
 
+[[item]]
+  organization = "CITI courses"
+  organization_url = "https://www.citiprogram.org/"
+  title = "VA Human Subjects Protection"
+  url = ""
+  certificate_url = "https://www.citiprogram.org/verify/?w5ab06012-70a3-4792-bc7a-b7ddd358f732-24852133"
+  date_start = "2017-10-04"
+  date_end = "2017-10-04"
+  #description = ""
 
 +++
