@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Fellow"
   company = "VA San Diego Healthcare System"
@@ -42,7 +43,9 @@ date_format = "Jan 2006"
   description = """
   
   * Provided fast-paced clinical care at Interprofessional Integrative Health Center, Inpatient Psychiatric Unit, Emergency Department and Psychosocial Rehabilitation Recovery Center. 
-  * Conducted clinical research evaluating Mindful Self-Compassion and Mindfulness Based Stress Reduction interventions with Veterans."""
+  * Conducted clinical research evaluating Mindful Self-Compassion and Mindfulness Based Stress Reduction interventions with Veterans.
+  
+  """
 
 [[experience]]
   title = "Clinical Affairs Coordinator"
@@ -56,7 +59,9 @@ date_format = "Jan 2006"
   * Served as primary clinical site recruiter and coordinator to collect biospecimens for biomedical device companies. 
   * Translated and presented complex clinical results to sales and operation executives (a multidisciplinary audience). 
   * Assisted with IRB and Ethics Committees submissions, continuing review, and study close out. 
-  * Drafted regulatory and study documents. Helped monitor study progress to ensure compliance with and adherence to project plan. """
+  * Drafted regulatory and study documents. Helped monitor study progress to ensure compliance with and adherence to project plan. 
+  
+  """
 
 [[experience]]
   title = "Clinical Project Assistant I"
@@ -69,6 +74,8 @@ date_format = "Jan 2006"
   
   * Assisted Director of Oncology and Principal Investigator with development of a pharmaceutical drug. 
   * Collaborated with interdisciplinary team in charge of drug development and approval process (including internal stakeholders and external partners). 
-  * Assisted Clinical Director and Document Control Manager with FDA regulatory submissions. """
+  * Assisted Clinical Director and Document Control Manager with FDA regulatory submissions. 
+  
+  """
 
 +++
