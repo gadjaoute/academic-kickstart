@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Clinical Affairs Coordinator"
-  company = "Discovery Life Sciences, Inc."
+  company = "Discovery Life Sciences"
   company_url = ""
   location = "California"
   date_start = "2016-02-01"
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Clinical Project Assistant I"
-  company = "US Biotest, Inc "
+  company = "US Biotest"
   company_url = ""
   location = "California"
   date_start = "2015-05-01"
