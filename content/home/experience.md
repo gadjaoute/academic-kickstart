@@ -32,7 +32,22 @@ date_format = "Jan 2006"
 
 
   """
+ 
+  """
 
+[[experience]]
+  title = "Graduate Research Assistant"
+  company = "UCLA"
+  company_url = ""
+  location = "California"
+  date_start = "2016-09-01"
+  date_end = "2018-09-01"
+  description = """
+  * Reviewed evaluation and approval documents by the FDA of two psychotropic medications to study how experimental drug activity established in preclinical animal model trials warrants human clinical trials. 
+  * Updated the CriticalThinkRx web-based curriculum on psychotropic medications. 
+  * Participated in evaluation of the Psychiatric Medication History Protocol. 
+  
+  """
 [[experience]]
   title = "Intern"
   company = "West Los Angeles VA Medical Center"
@@ -67,7 +82,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2015-05-01"
-  date_end = "2016-08-01"
+  date_end = "2015-08-01"
   description = """
   * Assisted Director of Oncology and Principal Investigator with development of a pharmaceutical drug. 
   * Collaborated with interdisciplinary team in charge of drug development and approval process (including internal stakeholders and external partners). 
