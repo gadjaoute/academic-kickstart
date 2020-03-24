@@ -32,4 +32,35 @@ subtitle = ""
   name = "Python"
 #  description = "10%"
 
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office"
+#  description = "10%"
+
+[[feature]]
+  icon = "blogger"
+  icon_pack = "fab"
+  name = "Shiny Dashboards"
+#  description = "10%"
+
+[[feature]]
+  icon = "gitlab"
+  icon_pack = "fab"
+  name = "Gitlab"
+#  description = "10%"
+
+[[feature]]
+  icon = "flask"
+  icon_pack = "fas"
+  name = "Wet Lab"
+#  description = "10%"
+
+
+[[feature]]
+  icon = "head-side-brain"
+  icon_pack = "fas"
+  name = "ACSW"
+#  description = "10%"
+
 +++
