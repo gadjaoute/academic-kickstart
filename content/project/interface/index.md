@@ -36,7 +36,7 @@ We used the interface to evaluate hypotheses (i.e., understand prescribing and p
 
 Summarize from the connection between related information including geographic location, NPI (provider identifier), drug, diagnosis, cost, review for professionals to extrapolate business, epidemiology and medical insights ranging from nationwide to individual level.
 
-![](/project/interface/index_files/deliverable_dashboard.PNG)
+![](/project/interface/dashboard.PNG)
 
 
 {{%alert%}}
