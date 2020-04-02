@@ -15,7 +15,7 @@ tags:
 - R
 - Python
 - Data Visualization
-title: althcare Insight and Inclusion Interface
+title: Healthcare Insight and Inclusion Interface
 
 url_code: ""
 url_pdf: https://github.com/gadjaoute/-Healthcare-Insight-and-Inclusion-Interface-
@@ -36,7 +36,7 @@ We used the interface to evaluate hypotheses (i.e., understand prescribing and p
 
 Summarize from the connection between related information including geographic location, NPI (provider identifier), drug, diagnosis, cost, review for professionals to extrapolate business, epidemiology and medical insights ranging from nationwide to individual level.
 
-![](/project/interface/index_files/Screenshot 2016-11-23 10.56.02.png)
+![](/project/interface/index_files/deliverable_dashboard.PNG)
 
 
 {{%alert%}}
