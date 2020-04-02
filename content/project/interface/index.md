@@ -8,7 +8,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/TheGuptaGuy
+  url: https://twitter.com/gadjaoute
 #slides: Healthcare Insight and Inclusion Interface     
 summary: Pilot project of a relational database and build an informative interface that incorporates historical prescription of Medicare transaction, psychotropic drug, corresponding diagnoses and patient’s reviews of psychotropic drugs.
 tags:
