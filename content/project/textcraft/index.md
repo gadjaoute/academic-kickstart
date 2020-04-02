@@ -6,11 +6,11 @@ image:
   focal_point: Smart
 links:
 - icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/TheGuptaGuy
+  #icon_pack: fab
+  #name: Follow
+  #url: https://twitter.com/TheGuptaGuy
 #slides: MSSEDA
-summary: Predicting the rank of a country in terms of Ease of Doing Business(EODB) in 2019 using Deep Learning.
+summary: User-Defined Real Time Text Mining Automation Tool 
 tags:
 - R
 - Data Visualization
