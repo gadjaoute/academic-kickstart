@@ -19,6 +19,6 @@ title: Textcraft
 
 url_code: ""
 url_pdf: ""
-url_slides: https://github.com/neonflux56/Project_EODB_MGTA452/blob/master/EODB.pptx
+#url_slides: https://github.com/neonflux56/Project_EODB_MGTA452/blob/master/EODB.pptx
 url_video: ""
 ---
