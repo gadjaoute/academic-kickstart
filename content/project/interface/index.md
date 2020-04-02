@@ -23,7 +23,7 @@ url_pdf: https://github.com/gadjaoute/-Healthcare-Insight-and-Inclusion-Interfac
 url_video: ""
 ---
 
-## Introduction
+##Summary
 
 We constructed a relational database and build an informative interface that incorporates historical prescription of Medicare transaction, psychotropic drug, corresponding diagnoses and patient’s reviews of psychotropic drugs. 
 We combine FDA drug label information, patient drug reviews, Medicare FFS parts b and d provider utilization and payment data sets, as well as hospital information and review. 
