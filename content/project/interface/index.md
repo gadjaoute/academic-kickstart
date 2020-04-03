@@ -23,19 +23,25 @@ url_pdf: https://github.com/gadjaoute/-Healthcare-Insight-and-Inclusion-Interfac
 url_video: ""
 ---
 
-
 We constructed a relational database and build an informative interface that incorporates historical prescription of Medicare transaction, psychotropic drug, corresponding diagnoses and patient’s reviews of psychotropic drugs. 
 We combine FDA drug label information, patient drug reviews, Medicare FFS parts b and d provider utilization and payment data sets, as well as hospital information and review. 
 
-We gathered data using API and scraping methods (R, Python). Then we applied sentiment analysis on drug reviews to gather insights. 
+We gathered data using API and scraping methods (R, Python) to extract WebMD drug reviews from psychotropic drugs.
 
-We visualized the results on an interface using Tableau Dashboards.
+Then we applied sentiment analysis on drug reviews to gather insights. In this example below we chose to focus on three stimulants Adderall, Strattera and Vyvanse.
+
+![](/project/interface/drug.PNG)
+
 
 We used the interface to evaluate hypotheses (i.e., understand prescribing and practice trends both at the physician level and understand geographic trends). 
 
-Summarize from the connection between related information including geographic location, NPI (provider identifier), drug, diagnosis, cost, review for professionals to extrapolate business, epidemiology and medical insights ranging from nationwide to individual level.
-
 ![](/project/interface/dashboard.PNG)
+
+Potential use: Summarize from the connection between related information including geographic location, NPI (provider identifier), drug, diagnosis, cost, review for professionals to extrapolate business, epidemiology and medical insights ranging from nationwide to individual level.
+
+
+
+
 
 
 {{%alert%}}
