@@ -2,7 +2,7 @@
 date: "2019-12-01T00:00:00Z"
 external_link:
 image:
-  caption: Photo-
+  caption:
   focal_point: Smart
 links:
 - icon: twitter
@@ -23,12 +23,10 @@ url_slides: https://github.com/neonflux56/Project_EODB_MGTA452/blob/master/EODB.
 url_video: ""
 ---
 
-Stages:
-
 ![](/project/textcraft2/stages.PNG)
-
-Workflow:
 
 ![](/project/textcraft2/workflow.PNG)
 
-Access Textcraft here: https://neonflux56.shinyapps.io/TextCraft/
+{{%alert%}}
+Click [TEXTCRAFT](https://neonflux56.shinyapps.io/TextCraft/) to access.
+{{%/alert%}}
