@@ -25,10 +25,10 @@ url_video: ""
 
 Stages:
 
-![](/project/interface/stages.PNG)
+![](/project/textcraft2/stages.PNG)
 
 Workflow:
 
-![](/project/interface/workflow.PNG)
+![](/project/textcraft2/workflow.PNG)
 
 Access Textcraft here: https://neonflux56.shinyapps.io/TextCraft/
