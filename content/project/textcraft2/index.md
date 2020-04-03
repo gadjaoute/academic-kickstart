@@ -1,6 +1,6 @@
 ---
 date: "2019-12-01T00:00:00Z"
-external_link: "https://neonflux56.shinyapps.io/TextCraft/"
+external_link:
 image:
   caption: Photo-
   focal_point: Smart
