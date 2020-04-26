@@ -34,10 +34,9 @@ The app works in three stages:
 
 ![](/project/textcraft2/stages.PNG)
 
-
 ### 1. Load Stage
 
-<div style="text-align:justify"><span
+<div style="text-align:justify"><span>
 The user uploads data in a csv file or hits Application Programming Interfaces(APIs) to pull data into the tool. The user views a preview of the collected data and decides the field that becomes the response and the field on which text models are applied.
 </span></div>
 
