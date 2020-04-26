@@ -87,6 +87,30 @@ For reference, let's load a dataset containing the reviews for cirque-du-soleil 
 </p>
 
 
+### Process Data Tab
+
+<div style="text-align:justify"><span>
+This is the tab where text is analyzed and models are initiated. At the top of the screen, the user sees the top 10 words with their word counts, TF-IDF scores and the suggested words to remove. Suggested words to remove are defined by a collection of conditional statements, depending on the word frequency, their TF-IDF score and their correlation with the title of the responses. The annotation option allows the user to select the words to remove or enter a specific word. The user can revert the changes to the original form. 
+</span></div>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/TextCraft/index_files/pic6.png">
+  <em>Process Data: Words selected and entered for annotation</em>
+</p>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/TextCraft/index_files/pic7.png">
+  <em>Process Data: Selected words are removed from corpus</em>
+</p>
+
+<div style="text-align:justify"><span>
+Once the redundant words are removed from the corpus, the app runs two main models - topic and sentiment analysis. For the topic analysis part, Latent Dirichlect Allocation (LDA) model is used in an unsupervised fashion to identify the most matching words for a particular topic. The top TF-IDF scores with respect to each response category is also obtained in the backend. The user is allowed to change the model configuration parameters like the seed value, number of topics, number of words per topic etc. The user also can perform the text tokenization in a unigram or bigram method, which basically refers to the number of words per token. For the chosen example, let's choose unigram modeling showing top 7 words and running LDA for 4 unsupervised topics. Clicking on 'Analyze Document Corpus' initiates the process.
+</span></div>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/TextCraft/index_files/pic8.png">
+  <em>Process Data: LDA model configuration options</em>
+</p>
 
 
 
