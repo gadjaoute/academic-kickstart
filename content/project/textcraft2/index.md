@@ -57,6 +57,22 @@ This stage displays a set of tailored charts and visuals corresponding to the co
 
 ![](/project/textcraft2/workflow.PNG)
 
+
+## Dashboard Design and Implementation
+
+
+### Home Tab
+
+<div style="text-align:justify"><span>
+The front end interface is also laid out in the three-stage fashion of the app's architecture for ease of interpretation. The first tab is the home page which comprises of the introduction to the tool and the instructions to use it.
+</span></div>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic1.png">
+  <em>Home: Landing page of the app</em>
+</p>
+
+
 {{%alert%}}
 Click [TEXTCRAFT](https://neonflux56.shinyapps.io/TextCraft/) to access.
 {{%/alert%}}
