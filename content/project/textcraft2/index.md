@@ -72,6 +72,23 @@ The front end interface is also laid out in the three-stage fashion of the app's
   <em>Home: Landing page of the app</em>
 </p>
 
+### Load Data Tab
+
+<div style="text-align:justify"><span>
+Under this tab, the user can upload a CSV file with the data or enter an API link which provides access to a json scipt of data. The json from API is automatically converted into a dataframe in R. The fetched data is previewed on the lower part of the screen. The user then chooses with field becomes the text corpus and which field would categorize the text as the response variable. Though, the user can select a single response field at a time, this field can be changed to redo the analysis. 
+
+For reference, let's load a dataset containing the reviews for cirque-du-soleil shows in held in Las Vegas. The show names are selected as the response and the reviews are selected as the text corpus.
+
+</span></div>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic2.png">
+  <em>Load Data: The user uploads a CSV file or enters API link</em>
+</p>
+
+
+
+
 
 {{%alert%}}
 Click [TEXTCRAFT](https://neonflux56.shinyapps.io/TextCraft/) to access.
