@@ -24,7 +24,8 @@ url_video: ""
 ---
 
 We constructed a relational database and build an informative interface that incorporates historical prescription of Medicare transaction, psychotropic drug, corresponding diagnoses and patient’s reviews of psychotropic drugs. 
-We combine FDA drug label information, patient drug reviews, Medicare FFS parts b and d provider utilization and payment data sets, as well as hospital information and review. 
+
+We combined FDA drug label information, patient drug reviews, Medicare FFS parts b and d provider utilization and payment data sets, as well as hospital information and review. 
 
 We gathered data using API and scraping methods (R, Python) to extract WebMD drug reviews from psychotropic drugs.
 

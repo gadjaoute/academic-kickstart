@@ -32,3 +32,15 @@ TextCraft delivers a framework with user-friendly interface to analyze and visua
 {{%alert%}}
 Click [TEXTCRAFT](https://neonflux56.shinyapps.io/TextCraft/) to access.
 {{%/alert%}}
+
+
+## References
+
+- [http://www.tfidf.com/](http://www.tfidf.com/)
+
+- [https://cran.r-project.org/web/packages/sentimentr/sentimentr.pdf](https://cran.r-project.org/web/packages/sentimentr/sentimentr.pdf) 
+
+- [http://sentiment.nrc.ca/lexicons-for-research/](http://sentiment.nrc.ca/lexicons-for-research/) 
+
+- [https://docs.rstudio.com/shinyapps.io/](https://docs.rstudio.com/shinyapps.io/) 
+
