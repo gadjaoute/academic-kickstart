@@ -1,45 +1,29 @@
 ---
-
-Introduction:
-
-Individuals with schizophrenia spectrum disorders (SSDs) exhibit impaired reinforcement learning and deficits in social cognition (Acheson, Twamley & Young, 2013). Additionally, neurocognitive problems in attention, memory, and executive functioning have been observed to occur in approximately 70% of persons with schizophrenia (Palmer, Healter, Kuck, & Braff, 1997), which can impact learning. 
-
-Nicotine has learning-enhancing effects (Acheson et al., 2013.) and smoking prevalence is elevated in among persons with SSDs (de Leon & Diaz, 2005). Specifically, the alpha7 nicotinic acetylcholine receptor (nAChR) has been identified as a pro-cognitive target to augment reward-based learning in patients with schizophrenia (Acheson et al., 2013).
-
-Social Skills Training (SST) and Cognitive and Behavioral Social Skills Training (CBSST) have shown to be effective forms of treatment for this population. Consumer of these interventions develop their social and cognitive abilities through skill-based curricula and positive feedback, resulting in skill acquisition and enhanced quality of life (Benton & Schroeder, 1990; Dixon et al., 2010; Granholm et al., 2013). 
-
-To these authors’ knowledge, no study to date has explored the relationship between nicotine use and reward-based learning associated with SST and CBSST among this population. Since this has not been examined in this population/setting, feasibility (i.e., enrollment, dropout, number of assessments completed) was also evaluated.
-
-Results derived from this study may facilitate the development of the VASDHS’ CORE program by highlighting observed differences in learning between nicotine versus non-nicotine users, potentially leading to the modification and delivery of current group curriculum to bridge these differences and improve quality of life.
-
-
+abstract: India is an extremely populous country with a massive population of 1+ billion residents, and inevitably also has a large proportion of people with disabilities in both rural and urban India. Speech impairment is common with people with hearing loss since birth. Among the total disabled population, about 27% have movement constraints and hence are confined to wheelchairs. This paper proposes the idea of using an AI-incorporated device to help such disabled populace. This device uses the standard principles of Internet-of-things(IoT) fetching data from g-sensors from hand gloves worn by an individual and converting this into speech output. Another use-case for the device could be to help the movement-impaired population by programming a pick and place bot using the same pipeline. The core model behind the device is an artificial neural network - LVQ algorithm to run a multi-class classification algorithm. The basic objective is to use g-sensor data and map a set of input vectors to a specific label which further initiates a bot action or produces a speech response. 
 authors:
 - admin
-- Blaire Ehret, PhD.
-date: "2019-04-15"
+- Sandesh Jagadish
+date: "2017-02-24"
 doi: ""
 featured: true
 image:
-  caption: 
+  caption: Source-algomuse.com
   focal_point: ""
   preview_only: false
 links:
-- name: Presented Poster
-  url: 
-conference: 14th Annual Lewis L. Judd Young Investigators Symposium 2019
+- name: Published Paper
+  url: https://ieeexplore.ieee.org/document/8073528
+publication: IEEE Digital Xplore Library, 2017 International Conference on Data Management, Analytics and Innovation (ICDMAI)
 publication_short: 
 publication_types:
 - "1"
-publishDate: "2019-04-15"
-
-summary: This posters features an independent research project exploring relationship between nicotine and learning among Veterans with severe mental illness.
-
+publishDate: "2017-10-19"
+summary: This paper proposes the idea of using machine learning implementation to develop a device that can benefit the speech and motion constrained population. Gesture control plays an essential role in order to convert the sensor data into speech output or operating a pick and place bot for the motion constrained.
 tags:
-- Nicotine
-- Schizophrenia
-- Severe Mental Illness
-title: Exploring the Relationship Between Nicotine and Learning Among Veterans with Severe Mental Illness
-
+- Machine Learning
+- Speech
+- Artificial Intelligence
+title: Machine learning oriented gesture controlled device for the speech and motion impaired, ICDMAI'17, Pune, India
 #url_code: '#'
 #url_dataset: '#'
 #url_pdf: https://github.com/neonflux56/Publication_ICDMAI/blob/master/ICDMAI_2017_paper.pdf
@@ -49,3 +33,5 @@ title: Exploring the Relationship Between Nicotine and Learning Among Veterans w
 #url_source: '#'
 #url_video: '#'
 ---
+
+
