@@ -1,6 +1,5 @@
 ---
 ## Introduction
-
 Individuals with schizophrenia spectrum disorders (SSDs) exhibit impaired reinforcement learning and deficits in social cognition (Acheson, Twamley & Young, 2013). Additionally, neurocognitive problems in attention, memory, and executive functioning have been observed to occur in approximately 70% of persons with schizophrenia (Palmer, Healter, Kuck, & Braff, 1997), which can impact learning. 
 
 Nicotine has learning-enhancing effects (Acheson et al., 2013.) and smoking prevalence is elevated in among persons with SSDs (de Leon & Diaz, 2005). Specifically, the alpha7 nicotinic acetylcholine receptor (nAChR) has been identified as a pro-cognitive target to augment reward-based learning in patients with schizophrenia (Acheson et al., 2013).
