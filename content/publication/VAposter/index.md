@@ -13,7 +13,7 @@ image:
   preview_only: false
 links:
 - name: Poster Presentation
-  url: 
+  url: https://github.com/gadjaoute/VAresearch/blob/master/poster_final.pdf
 publication: 14th Annual Lewis L. Judd Young Investigators Symposium 2019
 publication_short: 
 publication_types:
@@ -27,7 +27,7 @@ tags:
 title: Exploring the Relationship Between Nicotine and Learning Among Veterans with Severe Mental Illness
 #url_code: '#'
 #url_dataset: '#'
-#url_pdf: https://github.com/neonflux56/Publication_ICDMAI/blob/master/ICDMAI_2017_paper.pdf
+#url_pdf: https://github.com/gadjaoute/VAresearch/blob/master/poster_final.pdf
 #url_poster: '#'
 #url_project: 
 #url_slides: ""
