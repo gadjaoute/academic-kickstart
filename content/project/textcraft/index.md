@@ -82,7 +82,7 @@ For reference, let's load a dataset containing the WebMD reviews for a set of se
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft/pic2.png">
+  <img width="900" height="850" src="/project/textcraft/pic22.png">
   <em>Load Data: The user uploads a CSV file or enters API link</em>
 </p>
 
