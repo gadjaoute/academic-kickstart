@@ -82,7 +82,7 @@ For reference, let's load a dataset containing the reviews for cirque-du-soleil 
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic2.png">
+  <img width="900" height="850" src="/project/textcraft2/pic22.png">
   <em>Load Data: The user uploads a CSV file or enters API link</em>
 </p>
 
@@ -94,12 +94,12 @@ This is the tab where text is analyzed and models are initiated. At the top of t
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/TextCraft/index_files/pic6.png">
+  <img width="900" height="850" src="/project/TextCraft/index_files/pic33.png">
   <em>Process Data: Words selected and entered for annotation</em>
 </p>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/TextCraft/index_files/pic7.png">
+  <img width="900" height="850" src="/project/TextCraft/index_files/pic44.png">
   <em>Process Data: Selected words are removed from corpus</em>
 </p>
 
@@ -108,7 +108,7 @@ Once the redundant words are removed from the corpus, the app runs two main mode
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/TextCraft/index_files/pic8.png">
+  <img width="900" height="850" src="/project/TextCraft/index_files/pic88.png">
   <em>Process Data: LDA model configuration options</em>
 </p>
 
