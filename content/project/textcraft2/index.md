@@ -108,11 +108,64 @@ Once the redundant words are removed from the corpus, the app runs two main mode
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic88.png">
+  <img width="900" height="850" src="/project/textcraft2/pic55.png">
   <em>Process Data: LDA model configuration options</em>
 </p>
 
+### Get Insights Tab
 
+<div style="text-align:justify"><span>
+The model takes a little while to run before producing the analysis results. The Get Insights tab comprises of two sub-tabs topic and sentiment analysis. The topic analysis shows two main plots. The first plot describes the grouped categories in the response field and the top words corresponding to that category. The bottom chart is the output from the unsupervised LDA model associating/clustering the words in each of the topics. The number of topics and the number of words displayed per topic is fed under the configuration part in the Process Data tab.
+</span></div>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic66.png">
+  <em>Get Insights: Top words for each response/show </em>
+</p>
+
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic77.png">
+  <em>Get Insights: Unsupervised topic analysis from LDA model</em>
+</p>
+
+<div style="text-align:justify"><span>
+The sentiment analysis sub-tab comprises of all the sentiment and emotion distribution in the entire corpus and also grouped by each response category. The package 'sentimentr' from cran is used for this part of analysis. NRC Lexicon for identifying the emotion of a word is used to associate the review context with emotion. The plots below show the distribution of emotion in the entire corpus and the emotion for a single drug - Paxil.
+</span></div>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic88.png">
+  <em>Get Insights: Emotion distribution across entire corpus</em>
+</p>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic999.png">
+  <em>Get Insights: Emotion distribution across the drug - Paxil </em>
+</p>
+
+<div style="text-align:justify"><span>
+A sentiment score is used to as a measure to identify the general sentiment. The score distribution is analysed at various levels and its mean and standard deviation is calculated per response group. Following plots show the results of this analysis.
+</span></div>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic100.png">
+  <em>Get Insights: Average sentiment distribution for each response/show</em>
+</p>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic101.png">
+  <em>Get Insights: Positive/negative distribution across entire corpus</em>
+</p>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic102.png">
+  <em>Get Insights: Positive/negative distribution across each response</em>
+</p>
+
+<p align="center" style="font-family:Georgia;font-size:75%;">
+  <img width="900" height="850" src="/project/textcraft2/pic103.png">
+  <em>Get Insights: Statistical representation of sentiment score per response</em>
+</p>
 
 {{%alert%}}
 Click [TEXTCRAFT](https://neonflux56.shinyapps.io/TextCraft/) to access.
