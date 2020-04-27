@@ -77,7 +77,7 @@ The front end interface is also laid out in the three-stage fashion of the app's
 <div style="text-align:justify"><span>
 Under this tab, the user can upload a CSV file with the data or enter an API link which provides access to a json scipt of data. The json from API is automatically converted into a dataframe in R. The fetched data is previewed on the lower part of the screen. The user then chooses with field becomes the text corpus and which field would categorize the text as the response variable. Though, the user can select a single response field at a time, this field can be changed to redo the analysis. 
 
-For reference, let's load a dataset containing the reviews for cirque-du-soleil shows in held in Las Vegas. The show names are selected as the response and the reviews are selected as the text corpus.
+For reference, let's load a dataset containing the WebMD reviews for a set of selective serotonin reuptake inhibitors (SSRIs) antidepressants. The drug names are selected as the response and the reviews ("comment") are selected as the text corpus.
 
 </span></div>
 
@@ -94,21 +94,21 @@ This is the tab where text is analyzed and models are initiated. At the top of t
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/TextCraft/index_files/pic33.png">
+  <img width="900" height="850" src="/project/textcraft2/pic33.png">
   <em>Process Data: Words selected and entered for annotation</em>
 </p>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/TextCraft/index_files/pic44.png">
+  <img width="900" height="850" src="/project/textcraft2/pic44.png">
   <em>Process Data: Selected words are removed from corpus</em>
 </p>
 
 <div style="text-align:justify"><span>
-Once the redundant words are removed from the corpus, the app runs two main models - topic and sentiment analysis. For the topic analysis part, Latent Dirichlect Allocation (LDA) model is used in an unsupervised fashion to identify the most matching words for a particular topic. The top TF-IDF scores with respect to each response category is also obtained in the backend. The user is allowed to change the model configuration parameters like the seed value, number of topics, number of words per topic etc. The user also can perform the text tokenization in a unigram or bigram method, which basically refers to the number of words per token. For the chosen example, let's choose unigram modeling showing top 7 words and running LDA for 4 unsupervised topics. Clicking on 'Analyze Document Corpus' initiates the process.
+Once the redundant words are removed from the corpus, the app runs two main models - topic and sentiment analysis. For the topic analysis part, Latent Dirichlect Allocation (LDA) model is used in an unsupervised fashion to identify the most matching words for a particular topic. The top TF-IDF scores with respect to each response category is also obtained in the backend. The user is allowed to change the model configuration parameters like the seed value, number of topics, number of words per topic etc. The user also can perform the text tokenization in a unigram or bigram method, which basically refers to the number of words per token. For the chosen example, let's choose bigram modeling showing top 10 words and running LDA for 2 unsupervised topics. Clicking on 'Analyze Document Corpus' initiates the process.
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/TextCraft/index_files/pic88.png">
+  <img width="900" height="850" src="/project/textcraft2/pic88.png">
   <em>Process Data: LDA model configuration options</em>
 </p>
 
