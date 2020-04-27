@@ -32,7 +32,7 @@ This web application was envisioned as an asset for users with little or no back
 
 The app works in three stages:
 
-![](/project/textcraft2/stages.PNG)
+![](/project/textcraft/stages.PNG)
 
 ### 1. Load Stage
 
@@ -55,7 +55,7 @@ This stage displays a set of tailored charts and visuals corresponding to the co
 </span></div>
 
 
-![](/project/textcraft2/workflow.PNG)
+![](/project/textcraft/workflow.PNG)
 
 
 ## Dashboard Design and Implementation
@@ -68,7 +68,7 @@ The front end interface is also laid out in the three-stage fashion of the app's
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic1.png">
+  <img width="900" height="850" src="/project/textcraft/pic1.png">
   <em>Home: Landing page of the app</em>
 </p>
 
@@ -82,7 +82,7 @@ For reference, let's load a dataset containing the WebMD reviews for a set of se
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic22.png">
+  <img width="900" height="850" src="/project/textcraft/pic22.png">
   <em>Load Data: The user uploads a CSV file or enters API link</em>
 </p>
 
@@ -94,12 +94,12 @@ This is the tab where text is analyzed and models are initiated. At the top of t
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic33.png">
+  <img width="900" height="850" src="/project/textcraft/pic33.png">
   <em>Process Data: Words selected and entered for annotation</em>
 </p>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic44.png">
+  <img width="900" height="850" src="/project/textcraft/pic44.png">
   <em>Process Data: Selected words are removed from corpus</em>
 </p>
 
@@ -108,7 +108,7 @@ Once the redundant words are removed from the corpus, the app runs two main mode
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic55.png">
+  <img width="900" height="850" src="/project/textcraft/pic55.png">
   <em>Process Data: LDA model configuration options</em>
 </p>
 
@@ -119,13 +119,13 @@ The model takes a little while to run before producing the analysis results. The
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic66.png">
+  <img width="900" height="850" src="/project/textcraft/pic66.png">
   <em>Get Insights: Top words for each response/show </em>
 </p>
 
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic77.png">
+  <img width="900" height="850" src="/project/textcraft/pic77.png">
   <em>Get Insights: Unsupervised topic analysis from LDA model</em>
 </p>
 
@@ -134,12 +134,12 @@ The sentiment analysis sub-tab comprises of all the sentiment and emotion distri
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic88.png">
+  <img width="900" height="850" src="/project/textcraft/pic88.png">
   <em>Get Insights: Emotion distribution across entire corpus</em>
 </p>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic999.png">
+  <img width="900" height="850" src="/project/textcraft/pic999.png">
   <em>Get Insights: Emotion distribution across the drug - Paxil </em>
 </p>
 
@@ -148,22 +148,22 @@ A sentiment score is used to as a measure to identify the general sentiment. The
 </span></div>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic100.png">
+  <img width="900" height="850" src="/project/textcraft/pic100.png">
   <em>Get Insights: Average sentiment distribution for each response/show</em>
 </p>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic101.png">
+  <img width="900" height="850" src="/project/textcraft/pic101.png">
   <em>Get Insights: Positive/negative distribution across entire corpus</em>
 </p>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic102.png">
+  <img width="900" height="850" src="/project/textcraft/pic102.png">
   <em>Get Insights: Positive/negative distribution across each response</em>
 </p>
 
 <p align="center" style="font-family:Georgia;font-size:75%;">
-  <img width="900" height="850" src="/project/textcraft2/pic103.png">
+  <img width="900" height="850" src="/project/textcraft/pic103.png">
   <em>Get Insights: Statistical representation of sentiment score per response</em>
 </p>
 
