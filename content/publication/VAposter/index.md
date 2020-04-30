@@ -3,7 +3,6 @@ abstract: Individuals with schizophrenia spectrum disorders (SSDs) exhibit impai
 
 authors:
 - admin
-- Blaire Ehret
 date: "2019-04-15"
 doi: ""
 featured: true
