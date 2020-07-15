@@ -17,6 +17,18 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Data Science Associate"
+  company = "Repurpose.AI"
+  company_url = ""
+  location = "California"
+  date_start = "2020-04-25"
+  date_end = ""
+  description = """
+  * Conduct cheminformatics research in efforts to repurpose failed drugs for COVID-19 and other conditions.
+
+
+  """
 
 [[experience]]
   title = "Lead Data Analyst"
@@ -26,7 +38,8 @@ date_format = "Jan 2006"
   date_start = "2020-03-20"
   date_end = "2020-06-30"
   description = """
-  * Team captain of Capstone Project. Predict the drugs needed to treat intensive care patients suffering from severe acute respiratory syndrome coronavirus disease 2019 (COVID-19) per hospital. 
+  * Team captain of Capstone Project. 
+  *Predict the drugs needed to treat intensive care patients suffering from severe acute respiratory syndrome coronavirus disease 2019 (COVID-19) per hospital. 
   * Model the usage of drugs in the treatment of COVID-19. 
   * Understand historical data trends and pair with clinical insights. 
   * Develop and Implement algorithms using R and Python to recommend drug quantities. 
