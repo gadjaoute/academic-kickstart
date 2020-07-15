@@ -32,6 +32,22 @@ date_format = "Jan 2006"
 
 
   """
+
+
+[[experience]]
+  title = "Fellow"
+  company = "VA San Diego Healthcare System"
+  company_url = ""
+  location = "California"
+  date_start = "2018-08-01"
+  date_end = "2019-06-02"
+  description = """
+  * Provided assessment, individual and group psychotherapies and rehabilitation services independently and collaboratively with multidisciplinary clinicians to Veterans with severe mental illnesses (SMI). 
+  * Administered and scored clinical measures and interpreted quantitative data to inform Veteran’s treatment plans. 
+  * Led independent research project exploring relationship between nicotine and learning among Veterans with SMI. Presented findings at 2019 Judd Young Investigators Symposium.
+
+
+  """
  
 [[experience]]
   title = "Graduate Research Assistant"
