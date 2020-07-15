@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MSBA candidate, data enthusiast
+role: MSBA, MSW, Data Science Associate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have over 4+ years of work experience in the healthcare and life sciences industry. In my current master’s I have refined my statistical and visualization skills (e.g.,Python, R, Shiny and Tableau) and learned machine learning models (e.g., regression, decision trees, neural networks, clustering, web-scraping, sentiment analysis, topic models) to marry with my subject matter expertise in the life sciences. I am looking to leverage my knowledge and experience into a role as a data scientist/analyst.
+bio: I have over 4+ years of work experience in the healthcare and life sciences industry. In my recent master’s I have refined my statistical and visualization skills (e.g.,Python, R, Shiny and Tableau) and learned machine learning models (e.g., regression, decision trees, neural networks, clustering, web-scraping, sentiment analysis, topic models) to marry with my subject matter expertise in the life sciences. I am looking to leverage my knowledge and experience into a role as a data scientist/analyst.
 
 interests:
 - Bioinformatics
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I have over 4+ years of work experience in the healthcare and life sciences industry. In my current master’s I have refined my statistical and visualization skills (e.g., Python, R, Shiny and Tableau) and learned machine learning models (e.g., regression, decision trees, neural networks, clustering, web-scraping, sentiment analysis, topic models) to marry with my subject matter expertise in the life sciences. I am looking to leverage my knowledge and experience into a role as a data scientist/analyst.
+I have over 4+ years of work experience in the healthcare and life sciences industry. In my recent master’s I have refined my statistical and visualization skills (e.g., Python, R, Shiny and Tableau) and learned machine learning models (e.g., regression, decision trees, neural networks, clustering, web-scraping, sentiment analysis, topic models) to marry with my subject matter expertise in the life sciences. I am looking to leverage my knowledge and experience into a role as a data scientist/analyst.
