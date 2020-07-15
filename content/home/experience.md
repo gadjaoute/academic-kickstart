@@ -19,16 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Fellow"
-  company = "VA San Diego Healthcare System"
+  title = "Lead Data Analyst"
+  company = "BD"
   company_url = ""
   location = "California"
-  date_start = "2018-08-01"
-  date_end = "2019-06-02"
+  date_start = "2020-03-20"
+  date_end = "2020-06-30"
   description = """
-  * Provided assessment, individual and group psychotherapies and rehabilitation services independently and collaboratively with multidisciplinary clinicians to Veterans with severe mental illnesses (SMI). 
-  * Administered and scored clinical measures and interpreted quantitative data to inform Veteran’s treatment plans. 
-  * Led independent research project exploring relationship between nicotine and learning among Veterans with SMI. Presented findings at 2019 Judd Young Investigators Symposium.
+  * Team captain of Capstone Project. Predict the drugs needed to treat intensive care patients suffering from severe acute respiratory syndrome coronavirus disease 2019 (COVID-19) per hospital. 
+  * Model the usage of drugs in the treatment of COVID-19. 
+  * Understand historical data trends and pair with clinical insights. 
+  * Develop and Implement algorithms using R and Python to recommend drug quantities. 
+  * Serve as primary point of contact with BD’s Director of Advanced Analytics and cross functional teams to solve the business problem.
 
 
   """
